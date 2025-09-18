@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793718964564",
+    "project_id": "louceirasdo",
+    "storage_bucket": "louceirasdo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793718964564:android:765528c86d97f7948a08c1",
+        "android_client_info": {
+          "package_name": "br.com.example.louceirasdotalhado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimWW5u7xdgFzSZt9na6KU4NRSPNjmK6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
